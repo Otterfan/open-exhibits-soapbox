@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Soapbox xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> -->
+	<Content>
+		<English>
+			<!-- HOME/LANDING -->
+			<!-- RANKING -->			
+			<!-- RATING -->
+			<thanks>Thank You!</thanks>
+			<invalidname>Please enter a full name.</invalidname>
+			<likeimage>Like this image? You can mark this image to send when you end session.</likeimage>
+			<invalidemail>Please enter valid e-mail</invalidemail>
+			<enteremail>enter an e-mail</enteremail>
+			<es>Ending Session</es>
+			<mopamail>Please include me on the MOPA newsletter mailing list.</mopamail>
+			<continuer>Continue Rating</continuer>
+			<es2>End Session</es2>
+			<wosend>without sending</wosend>
+			<yes>Yes</yes>
+			<yescma>Yes,</yescma>
+			<sendbadges>send badges</sendbadges>
+			<no>No</no>
+			<nocma>No,</nocma>
+			<dontsend>don't send</dontsend>
+			<sure>Are you sure you would like to end your session?</sure>
+			<wouldsend>You have earned badges! Would you like to send these badges? &lt;br&gt;&lt;br&gt; Send to:</wouldsend>
+			<cansend>You have earned badges! You can send the badges to an e-mail. &lt;br&gt;&lt;br&gt; Send to:</cansend>
+			<sendbadim>You have badges and images to be sent! You can send them to an e-mail. &lt;br&gt;&lt;br&gt; Send to:</sendbadim>
+			<sendbadgesonly>You have earned badges! You can send them to an e-mail. &lt;br&gt;&lt;br&gt; Send to:</sendbadgesonly>
+			<sendimages>You have images ready to be sent! You can send them to an e-mail. &lt;br&gt;&lt;br&gt; Send to:</sendimages>
+		</English>
+		<Spanish>
+			<!-- HOME/LANDING -->
+			<!-- RANKING -->			
+			<!-- RATING -->
+			<thanks>¡Gracias!</thanks>
+			<invalidname>Por favor ingresa un nombre completo.</invalidname>
+			<likeimage>¿Te gusta esta imagen? La puedes marcar para enviar cuando termines tu sesión.</likeimage>
+			<invalidemail>Por favor introduce una dirección válida de e-mail.</invalidemail>
+			<enteremail>Dirección de e-mail</enteremail>
+			<es>Fin de sesión</es>
+			<mopamail>Por favor agréguenme a la lista de distribución &lt;br&gt;del boletín informativo de MOPA.</mopamail>
+			<continuer>Continuar calificando</continuer>
+			<cont>Continuar</cont>
+			<es2>Terminar sesión</es2>
+			<wosend>sin enviar</wosend>
+			<yes>Sí</yes>
+			<yescma>Sí,</yescma>
+			<sendbadges>envíenme las placas</sendbadges>
+			<no>No</no>
+			<nocma>No</nocma>
+			<dontsend>me las envíen</dontsend>
+			<sure>¿Estás seguro que quieres terminar tu sesión?</sure>
+			<wouldsend>¡Te has ganado unas placas! ¿Te gustaría enviarlas? &lt;br&gt;&lt;br&gt; Enviar a:</wouldsend>
+			<cansend>¡Te has ganado unas placas! Las puedes enviar por e-mail. &lt;br&gt;&lt;br&gt; Enviar a:</cansend>
+			<sendbadim>¡Tienes placas e imágenes listos para enviar! Los puedes enviar a un e-mail. &lt;br&gt;&lt;br&gt; Enviar a:</sendbadim>
+			<sendbadgesonly>¡Has ganado placas! Los puedes enviar a un e-mail. &lt;br&gt;&lt;br&gt; Enviar a:</sendbadgesonly>
+			<sendimages>¡Tienes imágenes listos para mandar! Los puedes enviar a un e-mail. &lt;br&gt;&lt;br&gt; Enviar a:</sendimages>
+		</Spanish>
+	</Content>
+</Soapbox>

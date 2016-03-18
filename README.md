@@ -12,12 +12,25 @@ Soapbox! has a game-like interface that displays a random subset of 10 photos fr
 <b>Background</b>
 Soapbox! is based on [My Gallery](http://www.mopa.org/blog/14-09-11/mopa-japan-my-gallery-%E5%AF%BE%E8%A9%B1%E5%9E%8B-interactive), an earlier Open Exhibits application created by UCSD students Wesley Hsu and Lance Castillo. My Gallery won a [Muse Gold Award](http://www.mediaandtechnology.org/muse-awards/2012-muse-award-winners/) in 2012. My Gallery allows visitors to create their own personal gallery of 10 photos (from a set of 50) on a touch screen. Visitors can title and save their gallery and browse galleries created by others. Once saved, the gallery can be shared on a tile display wall so other visitors can see it. Wesley Hsu (User Interface Designer at MOPA) has kindly released Soapbox!  to the community to demonstrate what is possible with Open Exhibits. 
 
-Technical details
+![Screenshot](http://farm9.staticflickr.com/8459/7996471907_f471986f30.jpg)
+
+TECHNICAL DETAILS
 - Runs on Open Exhibits 1.6.0
 - Requires Flash Player 10, node.js, WAMP
 - It originally ran on the Samsung SUR40 with Microsoft PixelSense, but should run on any Windows 7 touch device.
 
-![Screenshot](http://farm9.staticflickr.com/8459/7996471907_f471986f30.jpg)
+SUPPORTED OPERATING SYSTEMS
+- Windows 7
+- Windows 8
+- ASSOCIATED LANGUAGES
+
+ActionScript 3
+- HTML5
+- JavaScript
+- PHP
+
+REQUIRED ENVIRONMENTS
+-Adobe Flash Player 10.1+
 
 No source code is available.
 

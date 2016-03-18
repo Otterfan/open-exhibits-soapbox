@@ -19,6 +19,6 @@ Technical details
 
 ![Screenshot](http://farm9.staticflickr.com/8459/7996471907_f471986f30.jpg)
 
-No source code is available for his exhibit.
+No source code is available.
 
 Author: Wesley Hsu
